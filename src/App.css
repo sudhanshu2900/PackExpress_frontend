@@ -1,0 +1,132 @@
+a{
+  text-decoration: none;
+  color: #00ACED;
+}
+ 
+/* MainPage CSS Start */
+ 
+.compName p{
+  font-size: xx-large;
+  font-weight: 900;
+  margin: 40px 0;
+  color: #00ACED;
+}
+ 
+#headContent h1{
+  color: gray;
+  font-weight: 400;
+  margin-top: 40px;
+}
+ 
+#btnSection{
+  padding: 50px 0;
+}
+ 
+#btnSection p{
+  color: gray;
+}
+ 
+#user, #admin{
+  width: 150px;
+  padding: 8px;
+  font-weight: 500;
+  border-radius: 3px;
+}
+ 
+#user{
+  background-color: #00ACED;
+  border: 1px solid #00ACED;
+  color: #fff;
+}
+ 
+#admin{
+  border: 1px solid #00ACED;
+  color: #00ACED;
+}
+ 
+.compImg{
+  margin-top: 0px;
+}
+ 
+.compImg img{
+  width: 600px;
+  height: auto;
+}
+ 
+/* MainPage CSS End */
+ 
+/* AddProduct Page CSS Start */
+ 
+.addProductFormContainer{
+  width: 50%;
+  margin: auto;
+}
+ 
+.addProductFormContainer input{
+  width: 100%;
+}
+ 
+/* AddProduct Page CSS End */
+ 
+/* Products Page CSS Start */
+ 
+.listDiv div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ 
+ 
+/* Products Page CSS End */
+ 
+/* ViewOrderIdBox CSS Start  */
+ 
+.idInputBox{
+  width: 60%;
+  border: 2px solid lightblue;
+  border-radius: 10px;
+  padding: 20px;
+  margin: auto;
+  background-color: rgb(227, 248, 254);
+}
+ 
+/* ViewOrderIdBox CSS End  */
+ 
+/* AllOrders CSS Start */
+ 
+.orderStatusDiv{
+  border: 2px solid lightblue;
+  border-radius: 15px;
+  background-color: rgb(227, 248, 254);
+}
+ 
+/* AllOrders CSS End */
+ 
+ 
+/* AllOrders Page CSS Start */
+ 
+#orderPage{
+  position: relative;
+  width: 100%;
+}
+ 
+#ratingBox{
+  position: absolute;
+  border: 2px solid lightblue;
+  background-color: #fff;
+  border-radius:10px;
+  width: 40%;
+  margin: auto;
+  padding: 20px;
+  top: 200px;
+  left: 30%;
+  display: none;
+}
+ 
+/* .ratingIcon button{
+  border: none;
+  background-color: #fff;
+} */
+ 
+/* AllOrders Page CSS End */
+ 
