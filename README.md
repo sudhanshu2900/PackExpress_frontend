@@ -53,5 +53,5 @@ Pack Express is a package delivery service full stack web application created us
 ## Miscellaneous
 
 You need to run Backend microservices and MySQL server for this project.
-* User-Auth Microservice: 
+* User-Auth Microservice: https://github.com/sudhanshu2900/pack-express-userauth-microservice
 * Product Microservice: 
