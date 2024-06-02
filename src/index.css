@@ -16,3 +16,13 @@ span{
   font-size: 12px;
   font-weight: 600;
 }
+
+#smallScreenErrorMessage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  width: 100vw;
+  height: 100vh;
+  margin: auto;
+}
