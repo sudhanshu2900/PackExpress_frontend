@@ -47,8 +47,11 @@ Pack Express is a package delivery service full stack web application created us
 
 ## Usage
 
-* Use Admin Username: vanil@gmail.com
-*    Admin Password: Vanil@1234
+* Admin Username: Vanil@gmail.com
+* Admin Password: VK12345
+
+* User Username: vikas@gmail.com
+* User Password: V12345
 
 ## Miscellaneous
 
